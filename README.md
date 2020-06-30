@@ -11,4 +11,5 @@ Apps, tools, links, etc. for IT Security
 - https://urlhaus.abuse.ch/
 - https://urlscan.io/
 - https://www.virustotal.com/
-
+- https://www.whatismybrowser.com/
+- https://who.is/
