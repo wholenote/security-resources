@@ -5,3 +5,6 @@ Apps, tools, links, etc. for IT Security
 - https://developers.google.com/safe-browsing
 - https://dnstwister.report/
 - https://github.com/elceef/dnstwist
+- https://mxtoolbox.com/
+- https://openphish.com/
+- https://www.phish.ai/
