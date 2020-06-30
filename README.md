@@ -8,3 +8,6 @@ Apps, tools, links, etc. for IT Security
 - https://mxtoolbox.com/
 - https://openphish.com/
 - https://www.phish.ai/
+- https://urlhaus.abuse.ch/
+
+
