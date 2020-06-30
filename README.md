@@ -9,5 +9,6 @@ Apps, tools, links, etc. for IT Security
 - https://openphish.com/
 - https://www.phish.ai/
 - https://urlhaus.abuse.ch/
-
+- https://urlscan.io/
+- https://www.virustotal.com/
 
