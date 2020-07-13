@@ -15,3 +15,4 @@ Apps, tools, links, etc. for IT Security
 - https://who.is/
 - https://hybrid-analysis.com/
 - https://browserleaks.com/ip
+- https://www.dnsleaktest.com/
