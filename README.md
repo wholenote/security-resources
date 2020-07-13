@@ -1,4 +1,4 @@
-# Nice Cyber Security Resources
+# Cyber Security Resources
 Apps, tools, links, etc. for IT Security
 
 - https://ipinfo.io/
@@ -14,4 +14,4 @@ Apps, tools, links, etc. for IT Security
 - https://www.whatismybrowser.com/
 - https://who.is/
 - https://hybrid-analysis.com/
-
+- https://browserleaks.com/ip
