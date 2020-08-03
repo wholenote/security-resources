@@ -1,5 +1,5 @@
-# Cyber Security Resourceshttps://molo.ch/
-Open Source Apps, tools, links, etc. for IT Security
+# Cyber Security Resources
+Open Source Apps, tools, links, etc. for Security
 
 Web Apps
 - https://ipinfo.io/
