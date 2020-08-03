@@ -1,5 +1,5 @@
 # Cyber Security Resources
-Open Source Apps, tools, links, etc. for Security
+Open Source apps, tools, links, etc. for security
 
 Web Apps
 - https://ipinfo.io/
