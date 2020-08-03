@@ -1,6 +1,7 @@
-# Cyber Security Resources
-Apps, tools, links, etc. for IT Security
+# Cyber Security Resourceshttps://molo.ch/
+Open Source Apps, tools, links, etc. for IT Security
 
+Web Apps
 - https://ipinfo.io/
 - https://developers.google.com/safe-browsing
 - https://dnstwister.report/
@@ -16,3 +17,12 @@ Apps, tools, links, etc. for IT Security
 - https://hybrid-analysis.com/
 - https://browserleaks.com/ip
 - https://www.dnsleaktest.com/
+
+SOC Tools
+- https://molo.ch/
+- https://osquery.io/
+- https://attack.mitre.org/matrices/enterprise/
+- https://zeek.org/
+- https://www.elastic.co/elastic-stack
+- https://www.paloaltonetworks.com/cortex/xsoar
+
