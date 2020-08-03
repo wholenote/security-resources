@@ -27,3 +27,5 @@ SOC Tools
 - https://www.elastic.co/elastic-stack
 - https://www.paloaltonetworks.com/cortex/xsoar
 
+SQL
+- http://mystery.knightlab.com/
