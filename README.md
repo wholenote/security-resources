@@ -17,6 +17,7 @@ Web Apps
 - https://hybrid-analysis.com/
 - https://browserleaks.com/ip
 - https://www.dnsleaktest.com/
+- https://archive.today/ , https://archive.li/ , http://archive.is/
 
 SOC Tools
 - https://molo.ch/
